@@ -66,3 +66,53 @@ img.user-dashboard{
 .dp-menu{}
 .user-dash span.caret{
     margin:20px 10px;}
+
+/* Content Dashboard */
+.content-ds{
+}
+.bred{
+    padding: 6px;
+    float: left;
+    width: 100%;
+}
+a.bred{
+    float: left;
+    width: initial;
+    color: #2a3f54;
+}
+div.title-pg{}
+h1.title-pg{
+    font-size: 2em;
+    margin: 6px 10px;
+    float: left;
+}
+.content-din{
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+.rel-dash{
+    background: #fff;
+    /* padding: 6px; */
+    float: left;
+    width: 100%;
+    margin: 10px 0px;
+}
+.rel-dash i{
+    font-size: 4em;
+    float: left;
+    background: #2a3f54;
+    color: #fff;
+    padding: 6px;
+}
+.text-rel{
+    float: left;
+}
+.result{
+    font-size: 1.4em;
+    margin: 12px;
+}
+.result-ds{
+    font-size: 1em;
+    margin: 10px;
+}
