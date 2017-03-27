@@ -116,3 +116,28 @@ h1.title-pg{
     font-size: 1em;
     margin: 10px;
 }
+
+.bg-white{background: #ffffff;}
+/* Form Search */
+.form-search{
+    padding: 20px 0px;
+}
+.form-search form{}
+.form-search form input{
+    border-radius: 0px;
+}
+.edit{
+    background: #2a3f54;
+    padding: 6px 10px;
+    margin: 0px;
+    color: #fff;
+    float: left;
+}
+.delete{
+    background: #c5304b;
+    padding: 6px 10px;
+    color: #fff;
+    margin: 0px 4px;
+    float: left;
+}
+
