@@ -1,1 +1,5 @@
-<h1>Erro 404</h1>
+<div class="title-pg">
+    <h1 class="title-pg">
+        404
+    </h1>
+</div>

@@ -141,3 +141,18 @@ h1.title-pg{
     float: left;
 }
 
+.btn-insert{
+    background: #2a3f54;
+    padding: 8px 20px;
+    float: left;
+    margin: 10px 0px;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.btn-insert:hover{
+    text-decoration: none;
+    opacity: 0.9;
+    color: #fff;
+}

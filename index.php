@@ -13,6 +13,9 @@
 
     <!-- CSS Personalizado -->
     <link rel="stylesheet" href="css/especializati.css">
+
+    <!-- CSS Reset -->
+    <link rel="stylesheet" href="css/especializatireset.css">
 </head>
 
 <body>

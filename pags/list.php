@@ -11,6 +11,13 @@
             <button class="btn btn-search">Pesquisar</button>
         </form>
     </div>
+
+    <div class="class-btn-insert">
+        <a href="?pag=forms" class="btn-insert">
+            <span class="glyphicon glyphicon-plus">Cadastrar</span>
+        </a>
+    </div>
+
     <table class="table table-striped">
         <tr>
             <th>Nome</th>
