@@ -7,12 +7,15 @@
     background: #2a3f54;
     float: left;
     padding: 8px;
-    width: 85px;
+    width: 72px;
     text-align: center;
     min-height: 100vh;
+    position: fixed;
 }
 .logo{}
-img.logo-painel{}
+img.logo-painel{
+    width: 40px;
+}
 .list-menu{
     float: left;
     width: 100%;
@@ -40,7 +43,8 @@ ul.menu-list li a i{
     background: #f7f7f7;
     float: left;
     min-height: 100vh;
-    width: Calc(100% - 85px);
+    width: Calc(100% - 72px);
+    margin-left: 72px;
 }
 
 /* Top Dashboard */
@@ -97,6 +101,7 @@ h1.title-pg{
     float: left;
     width: 100%;
     margin: 10px 0px;
+    box-shadow: 1px 1px 1px #ccc;
 }
 .rel-dash i{
     font-size: 4em;
@@ -104,6 +109,8 @@ h1.title-pg{
     background: #2a3f54;
     color: #fff;
     padding: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
 }
 .text-rel{
     float: left;
@@ -114,7 +121,7 @@ h1.title-pg{
 }
 .result-ds{
     font-size: 1em;
-    margin: 10px;
+    margin: 0px 10px;
 }
 
 .bg-white{background: #ffffff;}
@@ -155,4 +162,9 @@ h1.title-pg{
     text-decoration: none;
     opacity: 0.9;
     color: #fff;
+}
+
+.form-ds{
+    background: #fff;
+    padding: 10px;
 }
